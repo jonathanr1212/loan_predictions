@@ -105,7 +105,7 @@ The final model chosen was the XGBoost model with Gridseach. It did not perform 
 ## <b>The Application</b>
 Streamlit was used to build a prototype website of the model in action.
 
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/f3a515d55a444c5b87cc1134a4630f85" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[Loan Application App Demo](https://www.loom.com/embed/f3a515d55a444c5b87cc1134a4630f85) 
 
 ## <b>For More Information</b>
 See the full analysis in the Jupyter Notebook or review this presentation:
